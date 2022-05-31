@@ -15,7 +15,7 @@ Apesar do pronto, este projeto ainda passará por melhorias e alterações de ac
 <img src="https://img.icons8.com/color/96/000000/css3.png"/>
 <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/color/96/000000/gimp.png"/>
-<a target="_blank" href="https://icons8.com/icon/t5K2CR8feVdX/reagir">Reagir</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<img src="https://img.icons8.com/offices/80/000000/react.png"/>
 </div>
 
 ## Available Scripts
