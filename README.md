@@ -13,7 +13,6 @@ Apesar do pronto, este projeto ainda passará por melhorias e alterações de ac
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-html-computer-science-flaticons-lineal-color-flat-icons.png"/>
 <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/96/000000/css3.png"/>
-<img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/color/96/000000/gimp.png"/>
 <img src="https://img.icons8.com/offices/80/000000/react.png"/>
 </div>
